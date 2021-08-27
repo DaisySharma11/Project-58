@@ -1,0 +1,126 @@
+.ab{
+    display:inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size:30px;
+    color:firebrick;
+}
+.ab:hover{
+    background-color: firebrick;
+    font-size:35px;
+    text-decoration:underline;
+    border-radius:5%;
+    color:white;
+}
+.fl{
+    list-style:none;
+    cursor:pointer;
+    top:0px;
+    margin-top:0px;
+    position:fixed;
+    z-index:10;
+    position:fixed;
+    width:100%;
+    height:35px;
+    background-color:beige;
+    color:firebrick;
+    height:40px;
+}
+body{
+    text-align: center;
+    padding-top: 800px;
+    margin:0px;
+}
+.profile{
+    border-radius:50%;
+    border-style:solid;
+    border-width:7px;
+    border-color:#38352e;
+}
+#name{
+    font-family:
+}
+#Introduction{
+    padding-top:40px;
+}
+#home{
+    text-align: center;
+    padding-top:70px;
+    position:absolute;
+    overflow:hidden;
+    color:white;
+    opacity:0.83;
+    z-index: 9;
+    width:100%;
+    height:100%;
+    background:radial-gradient(#ec72f7, #80ceff, #78f6ff, #aaf77e, #f3f77e, #ffbe78, #f77ebb);
+    display:table;
+    height:800px;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+.line{
+    width:70px;
+    height:6px;
+    margin:8px auto;
+    background-color: black;
+}
+#contacts{
+    background-color: crimson;
+    width:100%;
+    height:800px;
+}
+#map{
+    width:100%;
+}
+#Introduction{
+    width:100%;
+    height:800px;
+}
+.intro{
+    width:50%;
+}
+.intr{
+    width:50%;
+    text-align:left;
+}
+#writings{
+    height:800px;
+}
+#contacts a{
+    color:white;
+}
+.fl a{
+    color:crimson;
+}
+.fl a:hover{
+    color:white;
+}
+#one:hover{
+    font-size:18px;
+}
+#two:hover{
+    font-size:18px;
+}
+#three:hover{
+    font-size:18px;
+}
+#four:hover{
+    font-size:18px;
+}
+.wr:hover{
+    font-size:30px;
+    color:fuchsia;
+}
+.wr{
+    font-size:25px;
+}
+h1{
+    font-size:40px;
+}
+#leo{
+    width:400px;
+    height:300px;
+}
